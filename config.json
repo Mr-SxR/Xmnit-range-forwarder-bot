@@ -1,0 +1,14 @@
+{
+    "telegram": {
+        "bot_tokens": [
+            "YOUR_BOT_TOKEN_1",
+            "YOUR_BOT_TOKEN_2",
+            "YOUR_BOT_TOKEN_3",
+        ],
+        "chat_id": "YOUR_GROUP_CHAT_ID"
+    },
+    "authentication": {
+        "auth_token": "YOUR_MAUTH_TOKEN_HERE",
+        "cf_clearance": "YOUR_CF_CLEARANCE_COOKIE_HERE"
+    }
+}
